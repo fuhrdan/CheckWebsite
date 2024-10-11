@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEZ69ngE1lE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksfuh\\CheckWebsite\\CheckWebsite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksfuh\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}

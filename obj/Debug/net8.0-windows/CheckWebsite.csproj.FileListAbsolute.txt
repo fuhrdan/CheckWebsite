@@ -1,0 +1,17 @@
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.csproj.AssemblyReference.cache
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.AssemblyInfoInputs.cache
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.AssemblyInfo.cs
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\CheckWebsite\bin\Debug\net8.0-windows\CheckWebsite.exe
+C:\Users\ksfuh\CheckWebsite\bin\Debug\net8.0-windows\CheckWebsite.deps.json
+C:\Users\ksfuh\CheckWebsite\bin\Debug\net8.0-windows\CheckWebsite.runtimeconfig.json
+C:\Users\ksfuh\CheckWebsite\bin\Debug\net8.0-windows\CheckWebsite.dll
+C:\Users\ksfuh\CheckWebsite\bin\Debug\net8.0-windows\CheckWebsite.pdb
+C:\Users\ksfuh\CheckWebsite\bin\Debug\net8.0-windows\HtmlAgilityPack.dll
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWeb.9C23F4FF.Up2Date
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.dll
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\refint\CheckWebsite.dll
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.pdb
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\CheckWebsite.genruntimeconfig.cache
+C:\Users\ksfuh\CheckWebsite\obj\Debug\net8.0-windows\ref\CheckWebsite.dll
